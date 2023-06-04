@@ -12,3 +12,4 @@
 10. secure API->xss-clean,express-rate-limit
 11. environment variable & .gitignore
 12. MVC Architecture
+13. Connect to MongoDB database

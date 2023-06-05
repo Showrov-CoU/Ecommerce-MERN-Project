@@ -13,3 +13,5 @@
 11. environment variable & .gitignore
 12. MVC Architecture
 13. Connect to MongoDB database
+14. Schema & model for user
+15. create a seed route for testing

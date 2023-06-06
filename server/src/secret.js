@@ -6,5 +6,5 @@ const mongoDbAtlasUrl =
 
 const defaultImagePath =
   process.env.defaultImagePath || "public/images/users/defaultPhoto.png";
-  
-module.exports = { serverPort, mongoDbAtlasUrl,defaultImagePath };
+
+module.exports = { serverPort, mongoDbAtlasUrl, defaultImagePath };

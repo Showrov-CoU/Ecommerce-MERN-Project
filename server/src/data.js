@@ -14,6 +14,13 @@ const data = {
       phone: "01929063036",
       address: "Dhaka, Bangladesh",
     },
+    {
+      name: "A.R.showrov",
+      email: "showrov@gmail.com",
+      password: "22108008",
+      phone: "01729063036",
+      address: "Tangail, Bangladesh",
+    },
   ],
 };
 

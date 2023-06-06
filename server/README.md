@@ -15,3 +15,4 @@
 13. Connect to MongoDB database
 14. Schema & model for user
 15. create a seed route for testing
+16. GET/api/users->isAdmin->getAllUsers->serachByName/Email/Phone + pagination functionality
